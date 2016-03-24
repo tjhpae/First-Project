@@ -1,5 +1,5 @@
 <style>
-  .header-color{
+  .header-color {
   color: blue;
   }
 </style>
