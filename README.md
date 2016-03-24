@@ -3,6 +3,7 @@
 .red-text {
     color: red;
   }
+  h1 {font-family: Lobster;}
 </style>
 
 <head>
