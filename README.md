@@ -1,7 +1,10 @@
-# First-Project
+<style>
+  .header-color{
+  color: blue;
+  }
 
 <head>
-  <h1>First Project</h1>
+  <h1 class=.header-color>First Project</h1>
 </head>
 
 <body>
