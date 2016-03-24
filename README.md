@@ -1,11 +1,11 @@
 <style>
-  .header-color {
+  .blue-text {
   color: blue;
   }
 </style>
 
 <head>
-  <h1 class="header-color">First Project</h1>
+  <h1 class="blue-text">First Project</h1>
 </head>
 
 <body>
