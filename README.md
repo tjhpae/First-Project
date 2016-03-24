@@ -2,6 +2,7 @@
   .header-color{
   color: blue;
   }
+</style>
 
 <head>
   <h1 class=.header-color>First Project</h1>
