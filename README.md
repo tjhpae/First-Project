@@ -1,12 +1,12 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
-  .blue-text {
-  color: blue;
+.red-text {
+    color: red;
   }
 </style>
 
 <head>
-  <h1 class="blue-text">First Project</h1>
+  <h1 class="red-text">First Project</h1>
 </head>
 
 <body>
