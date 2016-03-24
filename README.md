@@ -5,7 +5,7 @@
 </style>
 
 <head>
-  <h1 class=.header-color>First Project</h1>
+  <h1 class="header-color">First Project</h1>
 </head>
 
 <body>
